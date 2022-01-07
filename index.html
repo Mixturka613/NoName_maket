@@ -5,12 +5,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
     <title>Document</title>
   </head>
   <body>
+
     <header>
 
-        <img class="header__background" src="img/header_bg.png" alt="">
+
+    <div class="menu">
+        <div class="menu__close">
+            <span class="close"></span>
+        </div>
+
+        <div class="menu__content">
+
+            <h1>Menu</h1>
+
+            <ul class="menu__btns">
+                <li class="menu__btn"><a href="/">Location</a></li>
+                <li class="dot">&bull;</li>
+                <li class="menu__btn"><a href="/">Blogs</a></li>
+                <li class="dot">&bull;</li>
+                <li class="menu__btn"><a href="/">Testimonials</a></li>
+                <li class="dot">&bull;</li>
+                <li class="menu__btn"><a href="/">Contact</a></li>
+            </ul>
+   
+        </div>
+    </div>
+
+    <img class="header__background" src="img/header_bg.png" alt="">
 
       <div class="container">
           <div class="header__top">
@@ -31,6 +56,11 @@
                 <li class="navbar__btn"><a href="/">Contact</a></li>
             </nav>
             <!-- END MENU -->
+            <nav id="menu-open" class="navbar__mobile">
+                <span class="navbar__mobile-line"></span>
+                <span class="navbar__mobile-line"></span>
+                <span class="navbar__mobile-line"></span>
+            </nav>
         </div>
 
         <div class="header__content">
@@ -44,7 +74,7 @@
                     Are you looking for amazing parenting community?</br>Don’t worry! We got it for you!
                 </p>
 
-                <div class="info__btn">
+                <div class="info__btn header__btn">
                     <a href="/">Learn More</a>
                 </div>
             </div>

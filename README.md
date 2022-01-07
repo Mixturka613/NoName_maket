@@ -5,7 +5,7 @@
 [Link to the layout](https://www.figma.com/file/cc6Q1eQwWrrQ3d74eVT11x/Parenting-Landing-Page?node-id=0%3A1)
 
 :white_check_mark: Layout for PC
-:negative_squared_cross_mark: Adaptive layout (I'll finish it soon)
+:white_check_mark: Adaptive layout (I'll finish it soon)
 
 ## Preview
 
