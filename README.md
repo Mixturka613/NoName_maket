@@ -1,6 +1,6 @@
 # This is the layout of the website layout for the portfolio
 
-> If you want to see my other works, then in my guthub they start with SITE-LAYOUT
+> If you want to see my other works, then in my guthub they start with _maket
 
 [Link to the layout](https://www.figma.com/file/cc6Q1eQwWrrQ3d74eVT11x/Parenting-Landing-Page?node-id=0%3A1)
 
